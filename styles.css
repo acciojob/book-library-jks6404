@@ -1,4 +1,6 @@
 /*  your css code here. If applicable */
+/*  your css code here. If applicable */
+
 *{
     font-family:sans-serif;
     padding:0;
@@ -32,7 +34,7 @@ body{
 
 }
 
-.book p{
+.book>p{
     color:#777777;
 }
 /* .book>button{
